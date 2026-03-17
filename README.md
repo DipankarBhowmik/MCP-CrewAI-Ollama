@@ -1,4 +1,7 @@
 # MCP-CrewAI-Ollama
+</br><a href="https://bhowmikd1984.medium.com/the-missing-layer-in-ai-agents-mcp-tool-servers-with-crewai-and-ollama-architecture-with-8bfb56119927?postPublishedType=repub">
+  Read: The Missing Layer in AI Agents
+</a>
 # 🎯 Advanced Image Concept (Deep Breakdown)
 # 🧠 Core Narrative You Want the Image to Convey
 </br>Your image should visually answer:
