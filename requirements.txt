@@ -1,0 +1,3 @@
+crewai
+litellm
+crewai-tools[mcp]

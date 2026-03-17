@@ -1,0 +1,13 @@
+module named 'crewai'
+
+pip install crewai
+
+crewai_tools
+
+pip install litellm
+
+pip install "crewai-tools[mcp]"
+
+ollama pull phi3
+
+conda install -c conda-forge nodejs
